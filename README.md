@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  My Website: <a href="https://pasindulakshan.com" target="_blank">pasindulakshan.com</a>
+  <b>My Website: <a href="https://pasindulakshan.com" target="_blank">PasinduLakshan.com</a></b>
 </p>
